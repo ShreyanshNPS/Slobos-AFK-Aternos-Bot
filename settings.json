@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fluctuatesmp.aternos.me ",
+    "ip": "fluctuatesmp.aternos.me",
     "port": 13466,
     "version": "",
     "try-creative": false
